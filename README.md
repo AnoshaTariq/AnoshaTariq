@@ -3,7 +3,7 @@
 An analyst operating at the intersection of **Quantitative Finance**,and **Data Science**. I specialize in parsing complex economic and financial datasets into actionable predictive insights.
 
 - 🎓 **Current Studies:** Postgraduate Diploma in Data Science with AI at NED Academy
-- 💼 **Background:** BS Computational Finance (CGPA: 3.80) | Research Analyst
+- 💼 **Background:** BS Computational Finance NED University (CGPA: 3.80) | Research Analyst
 - 📈 **Expertise:** Econometric Modeling, Machine Learning, Financial Analysis & Data Visualization
 
 ---
